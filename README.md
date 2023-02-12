@@ -10,4 +10,11 @@ The API should have two functions:
        get_exported_documents() # get the exported documents back to python
        
        
-       <img width="1143" alt="Screen Shot 2023-02-12 at 3 37 11 PM" src="https://user-images.githubusercontent.com/38836635/218335942-98eaf7d6-448f-45d9-88dc-4de6132522fd.png">
+  Below image shows dropdown list of topics
+  
+<img width="1143" alt="Screen Shot 2023-02-12 at 3 37 11 PM" src="https://user-images.githubusercontent.com/38836635/218336100-2ef638bf-eef1-428d-bff6-e780d2b855ae.png">
+
+
+Bar chart of k most used words for the selected topic
+
+<img width="614" alt="Screen Shot 2023-02-12 at 3 33 38 PM" src="https://user-images.githubusercontent.com/38836635/218336104-d27e0beb-95c9-46a8-a554-eb09b6115ec3.png">
